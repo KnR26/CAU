@@ -1,0 +1,31 @@
+[33mcommit df9080d397b00349db34501dbf4884eaf6aa6ca5[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;31morigin/BRAAAANCH[m[33m)[m
+Author: KnR26 <rlaskfls1@cau.ac.kr>
+Date:   Thu Apr 6 00:44:49 2023 +0900
+
+    이것은 그냥 개망한 학점계산기
+
+[33mcommit 7ceca0d11c01e6a25517cc48490121e0715117b2[m
+Author: KnR26 <rlaskfls1@cau.ac.kr>
+Date:   Thu Apr 6 00:40:10 2023 +0900
+
+    Revert "이것은 걍 개망한 나의 옾소파 학점계산기.."
+    
+    This reverts commit 2dec87d32bfb049854c600b7c4e02e50b4368cdb.
+
+[33mcommit 2dec87d32bfb049854c600b7c4e02e50b4368cdb[m
+Author: KnR26 <rlaskfls1@cau.ac.kr>
+Date:   Thu Apr 6 00:37:56 2023 +0900
+
+    이것은 걍 개망한 나의 옾소파 학점계산기..
+
+[33mcommit 6cae5c4fbf9a702449b073cc040543675dd7795c[m
+Author: KnR26 <rlaskfls1@cau.ac.kr>
+Date:   Wed Apr 5 23:35:59 2023 +0900
+
+    내가 드디어 올린다 깃에 내가 드디어..드디어...
+
+[33mcommit 5ce9d37183e49b1170f77f036a4ab4c6474a30ed[m
+Author: KnR26 <128708979+KnR26@users.noreply.github.com>
+Date:   Wed Apr 5 23:08:08 2023 +0900
+
+    Create caucau
