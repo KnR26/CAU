@@ -9,23 +9,23 @@
 def convert_score(grade):  #a문자열로 방ㄷ앗다
     match grade:
         case 'A+':
-            socre = 4.5
+            score = 4.5
         case 'A':
-            socre = 4.0
+            score = 4.0
         case 'B+':
-            socre = 3.5
+            score = 3.5
         case 'B':
-            socre = 3.0
+            score = 3.0
         case 'C+':
-            socre = 2.5
+            score = 2.5
         case 'C':
-            socre = 2.0
+            score = 2.0
         case 'D+':
-            socre = 1.5
+            score = 1.5
         case 'D':
-            socre = 1.0
+            score = 1.0
         case 'F':
-            socre = 0.0
+            score = 0.0
     return score
 
 #반복
@@ -33,7 +33,7 @@ submit_credit, archive_credit = 0,0
 submit_gpa, archive_gpa = 0.0, 0.0
 course_name_dict = {}
 course_list = []
-show_all = 0
+show_all = str()
 
 while True:
     print('작업을 선택하세요.')
@@ -60,7 +60,7 @@ while True:
             Gpa = str(user_value)
             gpa = convert_score(user_value)
 
-            print('입력되었습니다.')
+            print('입력되었습니다.\n')
 
             #계산
             if gpa > 0:
